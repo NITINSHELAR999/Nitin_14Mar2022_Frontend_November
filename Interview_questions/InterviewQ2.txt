@@ -1,0 +1,3 @@
+Q2)What are the key differences between Java and JavaScript? / How is JavaScript different from Java? 
+
+Ans- JavaScript is a lightweight programming language (most commonly known as scripting language) developed by Netscape, Inc. It is used to make web pages interactive. It is not a part of the          Java platform. Following is a list of some key differences between Java and JavaScript

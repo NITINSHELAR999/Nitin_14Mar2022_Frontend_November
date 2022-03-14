@@ -1,0 +1,10 @@
+Q4) Is JavaScript case sensitive language? 
+
+Ans-Yes, JavaScript is a case sensitive language. For example:
+
+        Var msg = "JavaScript is a case-sensitive language"; //Here, var should be used to declare a variable  
+        function display()   
+      {  
+        document.writeln(msg); // It will not display the result.  
+      }   
+      display();  

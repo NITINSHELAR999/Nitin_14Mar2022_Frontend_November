@@ -1,0 +1,5 @@
+Q3)   How to use external JavaScript file?
+
+Ans-  I am assuming that js file name is message.js, place the following script tag inside the head tag.
+
+          <script type="text/javascript" src="message.js"></script>  
